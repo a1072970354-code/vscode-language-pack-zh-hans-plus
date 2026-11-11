@@ -17,8 +17,15 @@
 
 ## 下载
 
-- Releases：https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus/releases
-- 克隆后自行打包：`npx @vscode/vsce package --no-dependencies`
+**[v1.146.0 VSIX](https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus/releases/download/v1.146.0/vscode-language-pack-zh-hans-plus-1.146.0.vsix)**（960 KB）
+
+一行命令装完并切到中文：
+
+```bash
+curl -L -o /tmp/zh.vsix https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus/releases/download/v1.146.0/vscode-language-pack-zh-hans-plus-1.146.0.vsix && code --install-extension /tmp/zh.vsix --force
+```
+
+装完 `Cmd+Shift+P` → `Configure Display Language` → `中文(简体)`，然后**完全退出** VS Code 再打开。
 
 ## 安装
 
