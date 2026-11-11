@@ -15,6 +15,11 @@
 
 剩余 181 条是**故意保留英文**的，例如 `Copilot`、`MCP`、`CRLF`、`LF`、`Alt`、`URL`、`ChatGPT`、`Claude`、`Codex`、`{0} GB`。强行翻译反而会造成术语混乱。
 
+## 下载
+
+- Releases：https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus/releases
+- 克隆后自行打包：`npx @vscode/vsce package --no-dependencies`
+
 ## 安装
 
 ### 方式一：VSIX（推荐）

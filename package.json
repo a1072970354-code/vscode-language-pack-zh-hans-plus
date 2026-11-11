@@ -409,5 +409,13 @@
         ]
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus/issues"
+  },
+  "homepage": "https://github.com/a1072970354-code/vscode-language-pack-zh-hans-plus#readme"
 }
